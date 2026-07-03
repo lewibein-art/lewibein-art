@@ -24,10 +24,10 @@
 
 | Проект | Что делала | Стек |
 |--------|------------|------|
-| [Анализ базы доноров крови DonorSearch](https://github.com/lewibein-art/donorsearch-analysis) | Сегментация доноров, расчёт конверсии, влияние мотивации на retention | SQL · PostgreSQL · CTE · Оконные функции |
-| [Дашборд велопарковок Москвы](https://github.com/lewibein-art/moscow-bike-parking) | Геоанализ 1,228 парковок, DAX-метрики, автоматизация данных через Power Query | Power BI · Power Query · DAX |
-| [Аналитика матчей Dota 2](https://github.com/lewibein-art/dota2-analytics) | Анализ баланса игры, популярность героев и предметов, метрики победителей | Yandex DataLens |
-| [Исследование венчурного рынка стартапов](https://github.com/lewibein-art/startup-market-research) | EDA ~35,600 компаний за 14 лет, выявление трендов, рекомендации по инвестициям | Python · Pandas · Matplotlib |
+| [Анализ базы доноров крови DonorSearch](https://github.com/lewibein-art/donorsearch-blood-donor-analysis) | Сегментация доноров, расчёт конверсии, влияние мотивации на retention | SQL · PostgreSQL · CTE · Оконные функции |
+| [Дашборд велопарковок Москвы](https://github.com/lewibein-art/moscow-bike-parking-powerbi) | Геоанализ 1,228 парковок, DAX-метрики, автоматизация данных через Power Query | Power BI · Power Query · DAX |
+| [Аналитика матчей Dota 2](https://github.com/lewibein-art/dota2-analytics-dashboard) | Анализ баланса игры, популярность героев и предметов, метрики победителей | Yandex DataLens |
+| [Исследование венчурного рынка стартапов](https://github.com/lewibein-art/startup-research) | EDA ~35,600 компаний за 14 лет, выявление трендов, рекомендации по инвестициям | Python · Pandas · Matplotlib |
 
 ---
 
